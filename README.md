@@ -10,6 +10,16 @@
 
 [Mi Proyecto de Python](https://github.com/Casanva11/bitsbytes.git) Proyecto de final de curso en la academia TokioSchool
 
+#### Tengo conocimientos sobre:
+
+
+##### Programming languages
+
+
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+</p>
+
+
 # Mis estadísticas en GitHub
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Casanva11&show_icons=true&theme=dark)](https://github.com/Casanva11/github-readme-stats)
 
