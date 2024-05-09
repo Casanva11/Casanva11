@@ -15,6 +15,7 @@
 
 ### Contact:
 <a href="https://linkedin.com/in/carlos-sánchez-valderrama-12508a151/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
+<a href="mailto:carlos.92sv@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Carlos Sanchez Valderrama" height="30" width="40" />carlos.92sv@gmail.com</a>
 
 <!--
 **Casanva11/Casanva11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
