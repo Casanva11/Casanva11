@@ -8,6 +8,9 @@
 
 [Mi Proyecto de Python](https://github.com/Casanva11/bitsbytes.git) Proyecto de final de curso en la academia TokioSchool
 
+# Mis estadísticas en GitHub
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=Casanva11&show_icons=true&theme=dark)](https://github.com/Casanva11/github-readme-stats)
+
 <!--
 **Casanva11/Casanva11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
