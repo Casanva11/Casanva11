@@ -7,7 +7,7 @@
 ![]
 
 ## Mis Repositorios
-
+[Proyecto Nexeus BigData](https://github.com/Casanva11/gestion-tareas) Proyecto En Nexeus BigData
 [Mi Proyecto de Python](https://github.com/Casanva11/bitsbytes.git) Proyecto de final de curso en la academia TokioSchool
 <!--
 #### Tengo conocimientos sobre:
